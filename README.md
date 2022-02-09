@@ -1,0 +1,3 @@
+# CCF-Ant
+项目代码主体在src/test/java目录下
+目前污点分析和调用链验证还未合并，分别隶属于taintAnalysis和ChainValidation两个目录下
